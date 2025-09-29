@@ -87,7 +87,19 @@ once logged iin we will create a new role:
 
 - department will be support and role is view only, no team assinged, click on create
 
-- 
+-Step #5: configure customer
+
+- you will click on the "Agent Panel" tab on the top right of the screen (high lighted in yellow)
+
+- next you willl click on users tab
+
+- click on add new user
+
+- new user's name is karen
+
+- email: karen@gmail.com
+
+- then you will click on add user
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
