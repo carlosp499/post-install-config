@@ -130,6 +130,8 @@ once logged in we will create a new role:
 
 - following the same instructions, click on add new SLA
 
+<img width="1179" height="649" alt="14" src="https://github.com/user-attachments/assets/bcd06e23-a8ed-4076-b9a2-d016aeb02738" />
+
 - new SLA name is SeV-B, Grace Period: 4hr, Schedule: 24\7
 
 - click on add paln
@@ -143,6 +145,8 @@ once logged in we will create a new role:
 - on the manage tab you will go to the "Help Topic" section
 
 - click on the "add new help topic" tab (marked in red)
+
+<img width="1167" height="610" alt="15" src="https://github.com/user-attachments/assets/23d23159-a843-4e41-8dce-ff65136bd327" />
 
 - the topic will be named "Business Critical Outage", put parent topic as "report a problem"
 
