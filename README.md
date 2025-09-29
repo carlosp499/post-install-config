@@ -44,15 +44,21 @@ http://localhost/osTicket/scp/login.php
 
 once logged in we will create a new role:
 
-- you will click on the "admin panel" tab to swithc over to the admin view
+- you will click on the "admin panel" tab to switch over to the admin view
 
-- neext click on the "agents" tab (highlighted in yellow)
+<img width="1243" height="558" alt="5" src="https://github.com/user-attachments/assets/7b77fe1b-b173-4175-9ae5-f4a4029513cb" />
+
+- next click on the "agents" tab (highlighted in yellow)
 
 - click on roles (marked in blue), and then go to "add new roles" (maarked in red)
 
+<img width="1203" height="624" alt="7" src="https://github.com/user-attachments/assets/20f64d21-491d-472c-af16-4a55cc4a7f03" />
+
 - new role will be named "supreme admin", then go to permissions and check all the boxes
 
-- do teh same in teh next tabs "tasks" & "knowledge"
+<img width="1238" height="664" alt="8" src="https://github.com/user-attachments/assets/c5f5d1e9-da02-4e25-a919-8cc07a596703" />
+
+- do teh same in the next tabs "tasks" & "knowledge"
 
 - click on add role
 
@@ -60,7 +66,11 @@ once logged in we will create a new role:
 
 - stay in the agents tab,  but click on the "departments" tab
 
+<img width="1305" height="692" alt="9" src="https://github.com/user-attachments/assets/9b01e7e3-c47e-432b-9817-20bbfe5f6c78" />
+
 - when it takes you to the settings choose "top level deaprtment" and name it "SysAdmins" and then click on create department
+
+<img width="1185" height="956" alt="10" src="https://github.com/user-attachments/assets/091eb661-2f67-4414-b1f2-db12bea2b550" />
 
 -Step #3: Configure team, Allow ticket creation
 
@@ -76,7 +86,11 @@ once logged in we will create a new role:
 
 - click on agents tab, then on add new agent
 
+<img width="1166" height="566" alt="11" src="https://github.com/user-attachments/assets/eebe617d-dfe3-4300-bbe3-0e1d273eff7a" />
+
 - name the agent jane doe, email janed@gamil.com, username: jane, password: password1
+
+<img width="1043" height="963" alt="12" src="https://github.com/user-attachments/assets/42b85b7b-4e2d-4059-a2e0-87ec47867c02" />
 
 - next click on access
 
@@ -92,7 +106,9 @@ once logged in we will create a new role:
 
 - you will click on the "Agent Panel" tab on the top right of the screen (high lighted in yellow)
 
-- next you willl click on users tab
+<img width="1123" height="507" alt="13" src="https://github.com/user-attachments/assets/9b1e17a6-ae68-4284-9258-7038f24fb801" />
+
+- next you will click on users tab
 
 - click on add new user
 
