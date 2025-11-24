@@ -140,7 +140,7 @@ once logged in we will create a new role:
 
 - new SLA name is Sev-C, Grace Period: 8hr, Schedule: M-F 8AM-5PM with U.S. Holidays
 
--Steo #7: Configure Help Topics
+-Step #7: Configure Help Topics
 
 - on the manage tab you will go to the "Help Topic" section
 
