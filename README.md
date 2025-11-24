@@ -34,7 +34,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Help topics
 
 <h2>Configuration Steps</h2>
--Step #1: configure roles
+
+### -Step #1: configure roles
 
 you will log on to the admin/analyst page
 
@@ -62,7 +63,7 @@ once logged in we will create a new role:
 
 - click on add role
 
--Step #2: configure departments
+### -Step #2: configure departments
 
 - stay in the agents tab,  but click on the "departments" tab
 
@@ -72,7 +73,7 @@ once logged in we will create a new role:
 
 <img width="1185" height="956" alt="10" src="https://github.com/user-attachments/assets/091eb661-2f67-4414-b1f2-db12bea2b550" />
 
--Step #3: Configure team, Allow ticket creation
+### -Step #3: Configure team, Allow ticket creation
 
 - whle still on the agents tab, click on "teams"
 
@@ -82,7 +83,7 @@ once logged in we will create a new role:
 
 - then go to users and double check "registration required" box is not checked off
 
--Step #4: configure agents 
+### -Step #4: configure agents 
 
 - click on agents tab, then on add new agent
 
@@ -102,7 +103,7 @@ once logged in we will create a new role:
 
 - department will be support and role is view only, no team assinged, click on create
 
--Step #5: configure customer
+### -Step #5: configure customer
 
 - you will click on the "Agent Panel" tab on the top right of the screen (high lighted in yellow)
 
@@ -118,7 +119,7 @@ once logged in we will create a new role:
 
 - then you will click on add user
 
--Step #6: configure SLA
+### -Step #6: configure SLA
 
 - Click on Admin panel
 
@@ -140,7 +141,7 @@ once logged in we will create a new role:
 
 - new SLA name is Sev-C, Grace Period: 8hr, Schedule: M-F 8AM-5PM with U.S. Holidays
 
--Step #7: Configure Help Topics
+### -Step #7: Configure Help Topics
 
 - on the manage tab you will go to the "Help Topic" section
 
